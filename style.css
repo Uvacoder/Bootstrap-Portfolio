@@ -35,9 +35,28 @@ footer {
     color: #ffffff;
     padding: 5px;
 }
-
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 640px) {
     .headshot {
         float: none;
+    }
+    .m-40 {
+        margin: 0;
+    }
+    .col-sm-12 {
+        padding: 0;
+    }
+    .card {
+        border-radius: 0;
+    }
+}
+
+@media only screen and (max-width: 460px) {
+    .headshot {
+        width: 100%;
+        padding-bottom: 30px;
+    }
+
+    .card {
+        max-width: none !important;
     }
 }
