@@ -2,8 +2,6 @@
 
 ### Overview
 
-In this assignment, we were asked to create two different portfolios. The first will be building
-the portfolio layout using the Bootstrap CSS Framework. The second will be enhancing
-the portfolio we made last week with a mobile-responsive layout.
+In this project, I built a portfolio layout using the Bootstrap CSS Framework.
 
-This is the first portfolio for the responsive assignment.
+![Bootstrap Portfolio](https://zcdev.github.io/img/p3.png)
